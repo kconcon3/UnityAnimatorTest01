@@ -1,5 +1,3 @@
-# UnityAnimatorTest01
-
 ## 概要  
 UnityのAnimatorに登録されているパラメータ(Parameters)を取得する
 <br /> 
